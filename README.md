@@ -2,6 +2,9 @@
 
 A new Flutter application used to calcute bmr.
 
+<img src="https://user-images.githubusercontent.com/72668442/201466639-362994d6-f351-4747-9db6-81c796f2ed26.png" alt="drawing" width="150"/>
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -16,4 +19,4 @@ How to use:
 - Click on 'Open from Version control' and add repso link
 - Once opened click on pub get 
 - Now to test use any device or emulator to build the main.dart 
-![image](https://user-images.githubusercontent.com/72668442/201466639-362994d6-f351-4747-9db6-81c796f2ed26.png)
+
